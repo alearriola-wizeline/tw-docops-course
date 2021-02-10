@@ -152,10 +152,13 @@ Here is an example of a numbered list.
 ## Table
 Here is an example of a table. 
 
-| a | b | c |
-|---|---|---|
-| a | b | c |
-| a | b | c |
+
+| Parameter|Description|Additional Information|
+|----------|:-------------:|------|
+| row 1 |  Description |Information|
+| row 2 |  Description  |Information|
+| row 3 | Description |Information|
+
 
 [⇧ back to top](#table-of-contents)
 

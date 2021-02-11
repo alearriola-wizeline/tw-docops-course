@@ -1,7 +1,5 @@
 # tw-docops-course
 
-# Ale Arriola
-
 This is a test repository to practice for the TW DocOps Course.
 
 ## Table of Contents

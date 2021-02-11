@@ -2,12 +2,15 @@
 
 # Ale Arriola
 
-One paragraph that quickly describes what is the purpose of the code in this
-repository.
+This is a test repository to practice for the TW DocOps Course.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Bulleted List](#bulleted-list)
+- [Numbered List](#numbered-list)
+- [Table](#table)
+- [Code Block](#code-block)
 - [Local Installation](#local-installation)
   - [Prerequisites](#prerequisites)
   - [Install <service name>](#install-<service-name>)
@@ -23,15 +26,53 @@ repository.
   - [Review Process](#review-process)
 - [Versions](#versions)
 - [License](#license)
-- [Bulleted List](#bulleted-list)
-- [Numbered List](#numbered-list)
-- [Table](#table)
-- [Code Block](#code-block)
+
 
 ## Introduction
 
 If necessary, add a more detailed explanation about the project, including
 concepts and architecture description.
+
+[⇧ back to top](#table-of-contents)
+
+## Bulleted List
+Here is an example of a bulleted list.
+- Item
+- Item
+
+[⇧ back to top](#table-of-contents)
+
+## Numbered List
+Here is an example of a numbered list.
+
+1. Item
+1. Item
+
+[⇧ back to top](#table-of-contents)
+
+
+## Table
+Here is an example of a table. 
+
+
+| Parameter|Description|Additional Information|
+|----------|:-------------:|------|
+| row 1 |  Description |Information|
+| row 2 |  Description  |Information|
+| row 3 | Description |Information|
+
+
+[⇧ back to top](#table-of-contents)
+
+## Code Block
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 
 [⇧ back to top](#table-of-contents)
 
@@ -130,46 +171,5 @@ Explain the versioning pattern this project follows.
 ## License
 
 Include here, if applies.
-
-[⇧ back to top](#table-of-contents)
-
-## Bulleted List
-Here is an example of a bulleted list.
-- Hello
-- Hi
-
-[⇧ back to top](#table-of-contents)
-
-## Numbered List
-Here is an example of a numbered list.
-
-1. Hello
-1. Hi
-
-[⇧ back to top](#table-of-contents)
-
-
-## Table
-Here is an example of a table. 
-
-
-| Parameter|Description|Additional Information|
-|----------|:-------------:|------|
-| row 1 |  Description |Information|
-| row 2 |  Description  |Information|
-| row 3 | Description |Information|
-
-
-[⇧ back to top](#table-of-contents)
-
-## Code Block
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 [⇧ back to top](#table-of-contents)
